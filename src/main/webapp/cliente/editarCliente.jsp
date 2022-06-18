@@ -68,7 +68,7 @@
                             <input type="text" class="form-control" id="txtMaternoCliente" name="txtMaternoCliente" value="<%= c.getMaternoCliente()%>">
                         </div>
                         <div class="mb-3">
-                            <label for="txtTelefonoCliente" class="form-label">Teléfono del cliente</label>
+                            <label for="txtTelefonoCliente" class="form-label">Telefono del cliente</label>
                             <input type="number" class="form-control" id="txtTelefonoCliente" name="txtTelefonoCliente" step=1 maxlength="10" minlength="10" value="<%= c.getTelefono()%>">
                         </div>
 

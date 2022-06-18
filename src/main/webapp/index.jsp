@@ -31,7 +31,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="producto/listaProducto.jsp">Ver productos</a></li>
-                                <li><a class="dropdown-item" href="producto/agregarProducto.jsp">Añadir producto</a></li>
+                                <li><a class="dropdown-item" href="producto/agregarProducto.jsp">Aniadir producto</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -40,7 +40,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="venta/listaVenta.jsp">Ver ventas</a></li>
-                                <li><a class="dropdown-item" href="venta/agregarVenta.jsp">Añadir venta</a></li>
+                                <li><a class="dropdown-item" href="venta/agregarVenta.jsp">Aniadir venta</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -49,7 +49,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="cliente/listaCliente.jsp">Ver clientes</a></li>
-                                <li><a class="dropdown-item" href="cliente/agregarCliente.jsp">Añadir cliente</a></li>
+                                <li><a class="dropdown-item" href="cliente/agregarCliente.jsp">Aniadir cliente</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">

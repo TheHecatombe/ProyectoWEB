@@ -49,7 +49,7 @@
                             <input type="text" class="form-control" id="txtnombreProducto" name="txtnombreProducto">
                         </div>
                         <div class="mb-3">
-                            <label for="txtDescripcionProducto" class="form-label">Descripción del producto</label>
+                            <label for="txtDescripcionProducto" class="form-label">Descripcion del producto</label>
                             <input type="text" class="form-control" id="txtdescripcionProducto" name="txtdescripcionProducto">
                         </div>
                         <div class="mb-3">

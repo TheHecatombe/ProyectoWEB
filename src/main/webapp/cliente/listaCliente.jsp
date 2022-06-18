@@ -47,7 +47,7 @@
                         <th scope="col">Nombre</th>
                         <th scope="col">Apellido paterno</th>
                         <th scope="col">Apellido materno</th>
-                        <th scope="col">Teléfono</th>
+                        <th scope="col">Telefono</th>
                         <th scope="col">Detalles</th>
                         <th scope="col">Editar</th>
                         <th scope="col">Eliminar</th>

@@ -28,7 +28,7 @@
     %>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Añadiendo producto...</title>
+        <title>Aniadiendo producto...</title>
     </head>
     <body>
         <%

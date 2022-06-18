@@ -34,14 +34,14 @@
             <a href="agregarProducto.jsp" class="btn btn-outline-dark me-3">Nuevo producto</a>
         </div>
 
-        <!--Creación de la tabla de productos--> 
+        <!--Creacion de la tabla de productos--> 
         <div class="d-flex justify-content-center">
             <table class="mt-3 table table-striped table-dark" style="width: 95%">
                 <thead>
                     <tr>
                         <th scope="col">Identificador</th>
                         <th scope="col">Nombre</th>
-                        <th scope="col">Descripción</th>
+                        <th scope="col">Descripcion</th>
                         <th scope="col">Precio</th>
                         <th scope="col">Stock</th>
                         <th scope="col">Detalles</th>
